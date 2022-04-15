@@ -12,3 +12,16 @@ body{
     padding-top: 10px;
     padding-bottom: 50px;
 }
+.parceiros{
+    background-color: rgb(238, 238, 238);
+    color: #222222;
+
+}
+.servicos{
+    background-color: rgb(245, 245, 255);
+    color: #222222;
+}
+.bg-footer{
+    background-color: #222222;
+    color: rgb(245, 245, 255);
+}
